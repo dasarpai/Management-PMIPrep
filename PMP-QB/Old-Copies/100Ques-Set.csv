@@ -1,0 +1,519 @@
+View,Category,Randomize,Score,Type,Question,Correct,Answers,Note
+Radio,P_SM,0,1,SingleQuestion,You are managing an IT project and one of the stakeholder asks you that why you consider the scope statement so important in your project management methodology. You answer to this question is..,,,[Qno: PML_119] >> 
+,,,,,,1,The project scope serves as a reference for all future project decisions.,
+,,,,,,,Project managers must document any changes before approving or declining them.,
+,,,,,,,It is mandatory to consult the plan before authorizing any change.,
+,,,,,,,The project plan and EVM work together to assess the risk involved with proposed changes.,
+Radio,M_CM,0,1,SingleQuestion,Earned value (EV) refers to,,,[Qno: PML_135] >> 
+,,,,,,1,"The value of the completed amount of work, expressed in units of currency.",
+,,,,,,,"The value of the planned amount of work, expressed in units of currency.",
+,,,,,,,"The value expected in order to complete planned work, expressed in units of currency.",
+,,,,,,,"The value of planned work, expressed in units of equivalent time.",
+Radio,P_TM,0,1,SingleQuestion,How do you define hard logic?,,,[Qno: PML_150] >> Mandatory Dependency or Hard Logic is natural dependency and that cannot be changed. Like document cannot be reviewed without it is developed.
+,,,,,,,External dependencies,
+,,,,,,,Discretionary dependencies,
+,,,,,,,Preferred dependencies,
+,,,,,,1,Mandatory dependencies,
+Radio,M_QM,0,1,SingleQuestion,"Activities done repeatedly over a period of time will become more efficient, quality of output increases and will be found to be less demanding by the performing people. This is known as the ___________.",,,[Qno: PML_205] >> 
+,,,,,,,Continuous Improvement Theory,
+,,,,,,,Six-Sigma Theory,
+,,,,,,,Basic Improvement Theory,
+,,,,,,1,Learning Curve Theory,
+Radio,P_QM,0,1,SingleQuestion,The theory that 85 percent of the cost of quality is a management problem is attributed to which of the following?,,,[Qno: PML_347] >> Deming told Ford that management actions were responsible for 85% of all problems in developing better cars
+,,,,,,,Kaizen,
+,,,,,,,Juran,
+,,,,,,1,Deming,
+,,,,,,,Crosby,
+Radio,P_QM,0,1,SingleQuestion,You are working on a project and you realise that some services need to be received from outside because your company does not have that competency. Therefore you outsourced the service to a vendor. What is the best choice among below to assure the high quality service from this vendor?,,,[Qno: PML_460] >> 
+,,,,,,,Deliverable inspection,
+,,,,,,,Fixed price contract,
+,,,,,,1,Quality audit,
+,,,,,,,Service level agreement,
+Radio,P_FW,0,1,SingleQuestion,In a recent meeting of project managers your CEO who is PMP emphasized that A facilitator should…,,,[Qno: PML_534] >> Typical role of a Project Manager work on a project is facilitator.
+,,,,,,,…be in full control of the discussion and its outcomes.,
+,,,,,,,…always take notes by herself.,
+,,,,,,,…avoid a flip chart Parking lot.,
+,,,,,,1,…give guidance as required without interfering.,
+Radio,I_RM,0,1,SingleQuestion,"As a project manager in a software project which is currently being initiated, you want to assess high level risks. You should you following?",,,"[Qno: PML_535] >> PMBOK® Guide® 4th Edition, pages 73 and 284."
+,,,,,,,Develop contingency plans and fallback plans in case the original plan proves wrong.,
+,,,,,,,Identify and analyze risk events using qualitative and quantitative techniques.,
+,,,,,,1,Develop the Project charter and a Risk management plan to start identifying risks based on those and other documents.,
+,,,,,,,Discuss the risks documented in your Risk register with the project key stakeholders.,
+Radio,E_PM,0,1,SingleQuestion,"In most jurisdictions, a legally required order of formal statements establishing a contract is called",,,"[Qno: PML_536] >> Project Management, A Systems Approach to Planning, Scheduling and Controlling by H. Kerzner, 10th edition, page 850, "
+,,,,,,1,"Offer, acceptance",
+,,,,,,,"Inquiry, bid, order",
+,,,,,,,"Invitation to treat, offer, PO",
+,,,,,,,"MoU, LoI, final agreement",
+Radio,M_COM,0,1,SingleQuestion,You are running a project and the project is responsible for  engineering and implementing a set of business processes. This project involves a many performing organizations including supplier and corporations. During the project you observed a restraining effect of differences between the companies’ corporate cultures. This corporate culture issue leads to different expectations on how such a project should be handled and due to this frequent misunderstandings between stakeholders are coming on the surface and this is leading to growing degree of distrust and skepticism. What should you try first to integrate these diverse groups stakeholders?,,,"[Qno: PML_655] >> PMBOK® Guide® 4th Edition, page 194 (last paragraph)."
+,,,,,,1,Develop a joint quality policy for the project and seek commitment by all organizations.,
+,,,,,,,"Focus on project work. As a project manager you should not get distracted by these kind of issues, otherwise he will get trapped into the other issues.",
+,,,,,,,Let the problems grow until they are obvious for all. Then escalate them.,
+,,,,,,,Analyze probability and impact of the risks linked with the situation and plan how to respond to them.,
+Radio,P_SM,0,1,SingleQuestion,The scope management provides,,,"[Qno: PML_805] >> Project Scope Management KA contains a group of processes which are required to ensure that the project includes all the work required, and only the work required, to complete the project."
+,,,,,,,A basis for future decisions about the project.,
+,,,,,,,A baseline to accomplish verification measures.,
+,,,,,,,A baseline to evaluate potential scope changes.,
+,,,,,,1,All of the above.,
+Radio,P_SM,0,1,SingleQuestion,Collect Requirements is:,,,[Qno: PML_821] >> Collect Requirements is progressive elaborative process and collects various type of requirment from various stakeholders so that product/service/result can be generated as defined.
+,,,,,,,Developing a plan from major stakeholders,
+,,,,,,,Developing options how to implement the requirement into system,
+,,,,,,,Formalizing acceptance of the project scope,
+,,,,,,1,Developing a written requirement documentation as the basis for future project decisions,
+Radio,C_PM,0,1,SingleQuestion,Your customer is asking you that we should close the contract tomorrow. What document you need to close the contract?,,,"[Qno: PML_832] >> While closing contract you need Contract documentation,Procurement audits and Formal acceptance and closure."
+,,,,,,,Formal acceptance and closure,
+,,,,,,,Contract documentation,
+,,,,,,,Procurement audits,
+,,,,,,1,All of the above,
+Radio,P_HM,0,1,SingleQuestion,Key Management skills include,,,[Qno: PML_848] >> All options are key management skills.
+,,,,,,,Communicating,
+,,,,,,,Negotiating,
+,,,,,,,Leading,
+,,,,,,1,All of the above,
+Radio,P_FW,0,1,SingleQuestion,Constraints do not include,,,"[Qno: PML_859] >> Impacts of local strike is outcome of Constraint ""Political Condition"""
+,,,,,,1,Impacts of local strike,
+,,,,,,,Collective bargaining,
+,,,,,,,Organizational structure of the performing organization,
+,,,,,,,Expected staff assignments,
+Radio,C_CM,0,1,SingleQuestion,You are in mid of project and customer is asking for EAC. How do you calculate Estimate at Completion(EAC)?,,,[Qno: PML_1045] >> 
+,,,,,,,Budgeted Cost(BC) - Actual Cost(AC),
+,,,,,,,Actual Cost(AC) + Budgeted Cost(BC),
+,,,,,,1,Actual Cost(AC) + Estimate to Complete(ETC),
+,,,,,,,Actual Cost(AC) - Planned Value(PV),
+Radio,E_COM,0,1,SingleQuestion,"Ideally, communication among team members should take place",,,[Qno: PML_1085] >> 
+,,,,,,,Via dialy status reports,
+,,,,,,,Through approved dcoumented forms,
+,,,,,,,Through the formal chain of command ,
+,,,,,,1,By written and oral communication,
+Radio,P_TM,0,1,SingleQuestion,Critical Path is the,,,"[Qno: PML_1122] >> Critical path on your schedule network diagram is the logest path with shrotest duration, with zero or negative float."
+,,,,,,1,"Longest path, shortest duration",
+,,,,,,,"Shortest path, longest duration",
+,,,,,,,Path where the deliverables are more critical than other paths,
+,,,,,,,Path with maximum float,
+Radio,P_RM,0,1,SingleQuestion,Who is a risk owner?,,,"[Qno: PML_1234] >> In a risk register, every risk should be assigned to a person and that person is responsible for watching the sign of risk, updating the response plan, and initiating corrective and preventive actions. This person is called risk owner."
+,,,,,,1,The person who is responsible for the response plan for the risk,
+,,,,,,,The person who meets with stakeholders to explain the risk,
+,,,,,,,The person who makes a risk happen,
+,,,,,,,The person who monitors the watchlist that contains the risk,
+Radio,E_HM,0,1,SingleQuestion,What are the 5 kinds of power?,,,"[Qno: PML_1299] >> Formal power is the kind of power which you because of your organizational position.
+ Expert power is when your opinion carries weight because people know that your expert in the subject.
+Reward power is when you promise a reward for doing as you ask. 
+Referent power is when people do what you say because of your association with somebody else whom they admire or respect. 
+Punishment power is when people do what you say because they are afraid of the consequences."
+,,,,,,1,"Formal, expert, reward, referent, and punishment",
+,,,,,,,"Formal, expert, reward, political, and bargaining",
+,,,,,,,"Formal expert, reward, political, and punishment",
+,,,,,,,"Formal, expert, reward, economic, and bargaining",
+Radio,P_QM,0,1,SingleQuestion,ARMA is a?,,,"[Qno: PML_1386] >> Auto-regressive Moving Average Model An econometric method. PMBOK® Guide, p. 269"
+,,,,,,,Time series method,
+,,,,,,,Judgmental method ,
+,,,,,,,Probabilistic forecasting method,
+,,,,,,1,Econometric method,
+Radio,P_PM,0,1,SingleQuestion, An RFP is:,,,"[Qno: PML_1488] >> Request for Proposal is Output of the Plan Procurements process. PMBOK® Guide, p. 326"
+,,,,,,, A tool and technique of the Conduct Procurements process ,
+,,,,,,1, An output of the Plan Procurements process,
+,,,,,,, An input to Administer Procurements process,
+,,,,,,, A tool and technique of the Plan Procurements process,
+Radio,P_RM,0,1,SingleQuestion,SWOT means,,,"[Qno: PML_1514] >>  The SWOT acronym means: strengths, weaknesses, opportunities, threats. PMBOK® Guide, p. 288"
+,,,,,,,"Strengths, Warnings, Observations, Threats",
+,,,,,,1,"Strengths, Weaknesses, Opportunities, Threats",
+,,,,,,,"Stealth, Warrant, Optimize, Transcend ",
+,,,,,,,"Strengths, Waste, Omissions, Terminations",
+Radio,P_TM,0,1,SingleQuestion,Crashing the schedule means,,,[Qno: PML_1580] >> Making the project shorter by any economic means
+,,,,,,,Doing activities that were in sequence in parallel,
+,,,,,,,Running the project team on overtime,
+,,,,,,1,Making the project shorter by any economic means,
+,,,,,,,Let the schedule of out of control project crash,
+Radio,P_CM,0,1,SingleQuestion,Lifecycle costing,,,[Qno: PML_1603] >> Lifecyle costing is a method of including all of the cost associated with the project over its entire life
+,,,,,,1,Is a method of including all of the cost associated with the project over its entire life,
+,,,,,,,Is a  local government's accounting method,
+,,,,,,,Is a method of predicting the life of a project,
+,,,,,,,Is a method of evaluating projects when they are complete,
+Radio,P_PM,0,1,SingleQuestion, Forward buying will:,,,"[Qno: PML_1706] >> Decrease transportation costs.
+If you buy something in advance it increases cost of storage, increases capital investment because you need to pay, increases material in inventory but it decrases the cost of transportation because same medium can be used to procure more."
+,,,,,,,Decrease capital investment,
+,,,,,,1,Decrease transportation costs,
+,,,,,,,Decrease storage cost,
+,,,,,,,Decrease inventory,
+Radio,M_RM,0,1,SingleQuestion,Which one of the given options is Corrective action,,,[Qno: PML_1724] >> 
+,,,,,,,You are fixing past anomalies,
+,,,,,,,The responsibility of the change control board (CCB),
+,,,,,,,An output of project plan execution. ,
+,,,,,,1,Anything done to bring the project's future performance in line with the project management plan. ,
+Radio,P_QM,0,1,SingleQuestion,  A checklist is,,,"[Qno: PML_1757] >> A checklist is a structured tool used to verify that a set of required steps has been performed. PMBOK® Guide, p. 201"
+,,,,,,,an ordered listing of quality items that must be verified before the quality control step is completed.,
+,,,,,,1,a structured tool used to verify that a set of required steps has been performed.,
+,,,,,,,a technical list of measured variables or counted data for decision making in a quality process review.,
+,,,,,,,an inspection list that is used when no evidence exists that the quality level of the product being submitted is better or worse than the specified quality level.,
+Radio,M_QM,0,1,SingleQuestion,What is the meaning of inspection?,,,"[Qno: PML_1760] >> An inspection is the examination of a work product to determine whether it conforms to documented standars. PMBOK® Guide, p. 213"
+,,,,,,1,activities undertaken to determine whether results conform to requirements.,
+,,,,,,,a statistical sampling and examination.,
+,,,,,,,recorded data concerning the results of inspection actions.,
+,,,,,,,performed during the manufacturing or repair cycle to help prevent defects from occurring.,
+Radio,E_HM,0,1,SingleQuestion,You manager asks you the objective of Team Development and you mentioned that in Team Development we,,,[Qno: PML_1816] >> 
+,,,,,,,Setup a team of people with the skills set that are required,
+,,,,,,1,Enhances the ability of stakeholders to contribute as individuals,
+,,,,,,,Motivate project team members,
+,,,,,,,Sends project team to a PMI seminar,
+Radio,P_SM,0,1,SingleQuestion,Create WBS process belongs to,,,[Qno: PML_1849] >> 
+,,,,,,,Initiation Process Group,
+,,,,,,,Executing Process Group,
+,,,,,,,Monitoring & Controlling Process Group,
+,,,,,,1,Planning Process Group,
+Radio,P_RM,0,1,SingleQuestion,A contingency plan is:,,,[Qno: PML_1854] >> 
+,,,,,,,A planned response that defines the steps to be taken so that any risk can be avoided,
+,,,,,,1,A planned response that defines the steps to be taken if an identified risk event should occur.,
+,,,,,,,A reserve used to allow for future situations which may be planned for only in part.,
+,,,,,,,1 and 3,
+,,,,,,,1 and 2,
+Radio,P_TM,0,1,SingleQuestion,What does RDU stand for?,,,[Qno: PML_1873] >> 
+,,,,,,1,Remaining Duration,
+,,,,,,,Really Dumb User,
+,,,,,,,Ready for Download Use,
+,,,,,,,Remaining Duration unassisted,
+Radio,P_TM,0,1,SingleQuestion,Gantt charts are used for ,,,[Qno: PML_1924] >> 
+,,,,,,,Showing tasks relationships,
+,,,,,,,Tracking actual vs planned,
+,,,,,,,"Communication with customer, management and project teams",
+,,,,,,1,2 and 3,
+Radio,P_QM,0,1,SingleQuestion,Design of experiments?,,,[Qno: PML_1926] >> 
+,,,,,,,Identifies which variables have the least influence on a quality outcome,
+,,,,,,,Determines what a quality outcome is,
+,,,,,,,Is a method for research and development,
+,,,,,,1,Identifies which independent variables have the most influence on quality outcome,
+Radio,P_TM,0,1,SingleQuestion,What is the purpose of work package?,,,[Qno: PML_1939] >> 
+,,,,,,,Limit work to be performed to relatively short periods of time.,
+,,,,,,,Represent units of work at a level where work is performed.,
+,,,,,,,Distinguish one package from all others assigned to a single functional group.,
+,,,,,,1,All of the above.,
+Radio,P_QM,0,1,SingleQuestion,The zero defects concept emphasise on,,,[Qno: PML_1947] >> 
+,,,,,,,Having a performance standard for management,
+,,,,,,,Continueous slow but steady improvement,
+,,,,,,,Everyone should do things right the first time,
+,,,,,,1,1 and 3,
+,,,,,,,2 and 3,
+Radio,ALL_FW,0,1,SingleQuestion,Which statement is correct :,,,[Qno: PML_1970] >> 
+,,,,,,1,PMBoK deals only with Project Management Processes,
+,,,,,,,PMI is not any more responsible form PMBOK.,
+,,,,,,,PMBOK will be changed every year in December.,
+,,,,,,,PMBOK has 9 process groups and 42 processes.,
+Radio,E_PM,0,1,SingleQuestion,Advertising is a technique used in which of the following process:,,,[Qno: PML_1985] >> 
+,,,,,,,Select Sellers,
+,,,,,,1,Conduct Procurement,
+,,,,,,,Contract Administration,
+,,,,,,,Contract Closure,
+Radio,P_TM,0,1,SingleQuestion,Two of your friends are aruging on the definition of Critical Path. As PMP what will you tell them. A critical path is,,,[Qno: PML_1991] >> 
+,,,,,,,The path with zero float.,
+,,,,,,1,"The longest path through the network, which represents the shortest amount of time in which a project can be completed.",
+,,,,,,,"The shortest path through the network, which represents the longest amount of time in which a project can be completed.",
+,,,,,,,The path with the most activities with the longest durations.,
+,,,,,,,1 and 2,
+Radio,M_QM,0,1,SingleQuestion,"You are the project manager responsible for manufacturing a particular variety of biscuit. You decide to do a statistical sampling for this project, because surveying the entire population involves all the following problems EXCEPT:",,,"[Qno: PML_2027] >> If you use statistical sampling as tool then it helps in reducing time, reducing cost and can be completed using lessor amount of resources
+"
+,,,,,,, Very expensive,
+,,,,,,, Longer time,
+,,,,,,, More resources,
+,,,,,,1, Inaccurate data,
+Radio,P_QM,0,1,SingleQuestion,Who is responsible for determining and delivering the required levels of quality in your project?,,,"[Qno: PML_2038] >> The project manager and the project management team are responsible for managing the tradeoffs involved to deliver the required levels of both quality and grade. 
+
+"
+,,,,,,1, Project manager/project management team,
+,,,,,,, Project sponsor,
+,,,,,,, Project team,
+,,,,,,, All stakeholders in the project,
+Radio,E_HM,0,1,SingleQuestion,"You are working on a Civil Project. You find that two of your team members disagree often on the best way to handle an issue. You asked them to look at the positives and negatives of their approaches and submit their recommendations, which could be a ""middle path"". You followed which technique of resolving conflict?",,,[Qno: PML_2041] >> 
+,,,,,,1, Compromising,
+,,,,,,, Smoothing,
+,,,,,,, Confrontation,
+,,,,,,, Withdrawal,
+Radio,E_PM,0,1,SingleQuestion,"You had conducted an independent estimate to find out the cost of sub-contracting the manufacturing of 1,000,000 battery for your automobile company. You estimated the cost to be $ 100 per battery. However, when you asked for bids and proposals from prospective sellers, the minimum price quoted was $ 150 per battery. The reasons for the variance in the estimate could be all the following EXCEPT:",,,[Qno: PML_2042] >> 
+,,,,,,1, There have not been major changes in the cost of material and labor since last year,
+,,,,,,, The procurement statement of work was not clear.,
+,,,,,,, The prospective sellers misunderstood the procurement statement of work.,
+,,,,,,, The procurement statement of work was not sufficient.,
+Radio,M_RM,0,1,SingleQuestion,"Ravi is working as project manager in Air Conditioner (AC) manufacturing company. AC parts required in this  manufacturing process supplied by a vendor did not reach in time because of rail accident on the way. Ravi had anticipated this risk of delay and planned for it in his risk response plan. So, as per his risk response plan, he started using unutilized parts which were bought a year ago. However, this has explosed his project to a new risk - the AC parts which were not used for one year may have higher level of defects. This new risk can also be called:",,,[Qno: PML_2047] >> 
+,,,,,,1, Secondary risks,
+,,,,,,, Unidentifiable risks,
+,,,,,,, Unmanageable risks,
+,,,,,,, Residual risks,
+Radio,p_HM,0,1,SingleQuestion,"In your project, you are in the process of developing the human resource plan. The enterprise environmental factors that cannot influence this process is:",,,"[Qno: PML_2063] >> Lessons learned is about the best practices, what solution worked and what not. It is not about the people. Therefore while developing HR Plan lessons learned is not of any use."
+,,,,,,, Personnel administration policies,
+,,,,,,, Existing human resources,
+,,,,,,1, Lessons learned documentation,
+,,,,,,, Marketplace conditions,
+Radio,E_QM,0,1,SingleQuestion,"In your project, you are doing a structured review to determine whether product activities comply with organizational and project policies. This is conducted as part of (a) ________________, and is performed during (b) _____________ process.",,,[Qno: PML_2175] >> 
+,,,,,,, (a) Quality audit (b) Quality Control,
+,,,,,,, (a) Process analysis (b) Quality Assurance,
+,,,,,,, (a) Process analysis (b) Quality Control,
+,,,,,,1, (a) Quality audit (b) Quality Assurance,
+Radio,M_CM,0,1,SingleQuestion,"You are working on a 12 month assignment to build a website with 4000 pages for $ 1,000,000. You are supposed to spend $ 250,000 every 3 months. After 6 months, you determine that only $ 400,000 of work is completed and cost incurred is $ 800,000. What is the ETC (Atypical)?",,,"[Qno: PML_2177] >> ETC (Atypical)= BAC- EV
+ETC (Typical) = BAC/CPI"
+,,,,,,," $ 2,000,000",
+,,,,,,1,$ 600000,
+,,,,,,," $ 1,000,000",
+,,,,,,,$ 1200000,
+Radio,P_FW,0,1,SingleQuestion,"Your sponsor believes in ""SMART"" goals for evaluating the objectives or goals for your project. In this context, SMART includes all the following keywords EXCEPT:",,,"[Qno: PML_2182] >> SMART- Specific, Measurable, Attainable, Realistic & Time bound"
+,,,,,,, Measurable,
+,,,,,,, Relevant,
+,,,,,,, Attainable,
+,,,,,,1, Significant,
+Radio,P_PM,0,1,SingleQuestion,"Ravi is a new project manager in ABC Company. He is ready to enter into a contract with a buyer for supply of bolts, but is unsure of the type of contract she should select. Which type of contract represents the highest risk to the seller?",,,[Qno: PML_2196] >> 
+,,,,,,, Cost reimbursable plus incentive,
+,,,,,,, Fixed price plus incentive,
+,,,,,,, Cost- reimbursable,
+,,,,,,1, Fixed- price,
+Radio,M_QM,0,1,SingleQuestion,"You are involved in manufacturing bolt using a machines. The bolt diameter should have a diameter of 5.0 cms - allowable control limits are 4.95 cms to 5.05 cms. Measurements made after the end of the process for the bolt produced are: 4.96, 4.98, 5.01, 5.03, 5.02, 5.01,5.03,5.04, 5.02, 4.96, 4.98, 5.00.
+What is your conclusion about the process?",,,[Qno: PML_2198] >> 7 consicutive data points above 5.0 cm shows a run of seven. Therefore process is out of control. Option A is also correct answer but D is the best answer.
+,,,,,,, Process should be further measured using a run chart,
+,,,,,,, Process is in control and adjustments are not required,
+,,,,,,, The tool needs to be changed or re-calibrated,
+,,,,,,1, Process is out of control and needs to be investigated,
+Radio,P_TM,0,1,SingleQuestion,"Ravi is working as programmer on your project. You asked him how long he will take to complete a software program. He mentioned that he would most probably get the job done in 2 hours. But if he runs into some issues with doing unit-testing for the program, it could take him as long as 7 hours. On the other hand, he may be able to pick up a similar program from the organization process assets, in which case it will take her only 1 hour. What is the standard deviation?",,,"[Qno: PML_2208] >> (Passimistic- Optimistic)/6
+(7-1)/6= 1 hour"
+,,,,,,1, 1 hour,
+,,,,,,, 3 hours,
+,,,,,,, Cannot be determined from the provided information,
+,,,,,,, 2 hours,
+Radio,P_CM,0,1,SingleQuestion,Which one of the following best describes the analogous estimating?,,,[Qno: PML_2272] >> 
+,,,,,,,Reserve analysis,
+,,,,,,,Bottom up estimating,
+,,,,,,,Three-points estimates,
+,,,,,,1,Least accurate,
+Radio,P_HM,0,1,SingleQuestion,Which of the following chart shows position and relationships in top-down format?,,,[Qno: PML_2277] >> 
+,,,,,,,All the options below,
+,,,,,,,Matrix-based charts,
+,,,,,,,Text-Oriented format,
+,,,,,,1,Hierarchical-type chart,
+Radio,E_FW,0,1,SingleQuestion,Which of the following project management process group gets MOST of a project's budget expended?,,,[Qno: PML_2292] >> Expenditure depends upon number of activities. Number of activities are highest in Execution process group followed by Planning process group
+,,,,,,1,Project Executing,
+,,,,,,,Project Planning,
+,,,,,,,Project Closing,
+,,,,,,,Project Monitoring,
+Radio,P_SRE,0,1,SingleQuestion,"You are a project manager with ABC Ltd and you are assigned to a project that has already decided to be outsourced. As a project manager, you need to organize a formal bid process and select the vendor for this project. You own share in one of the vendor companies who also participated in the bidding process. What is the BEST course of action for you?",,,[Qno: PML_2293] >> 
+,,,,,,1,Tell your manager and remove yourself from the vendor selection committee.,
+,,,,,,,Get the vendor company selected for the project.,
+,,,,,,,Keep the information to yourself.,
+,,,,,,,Ask other members of the selection committee to select your vendor company,
+Radio,M_CM,0,1,SingleQuestion,"The 1 years project has 100 work packages and a budget of $10,000. After six month, 50 work packages are completed and $5,000 has been spent. Which of the following is TRUE?",,,[Qno: PML_2294] >> You do not what was planned to be completed by 6 month.
+,,,,,,1,Not enough information available.,
+,,,,,,,The project need 50 work package to be completed in 6 months.,
+,,,,,,,The project need 50 work package to be completed in 3 months.,
+,,,,,,,The project is on schedule and on budget.,
+Radio,P_QM,0,1,SingleQuestion,You heard that a friend who is project manager is using control chart. What is the purpose of control charts?,,,[Qno: PML_2332] >> 
+,,,,,,,how various elements of a system are interrelated,
+,,,,,,,show trends in a process over time,
+,,,,,,,shows the pattern of a relationship between two variables,
+,,,,,,1,"determine if the process is ""in control""",
+Radio,P_QM,0,1,SingleQuestion,"Recently in your project audit, auditor told you to show him the Pareto Chart. What is the purpose of a Pareto Chart",,,[Qno: PML_2343] >> 
+,,,,,,,Focus on root cause analysis,
+,,,,,,,Determine how various factors are linked to potential problems,
+,,,,,,,Determine whether or not process is stable and within set limits.,
+,,,,,,1,Focus on critical issues to improve quality.,
+Radio,P_QM,0,1,SingleQuestion,3 Sigma is equal to ______ percentage of fall between two control limits.,,,"[Qno: PML_2345] >> 1 sigma = 68.26% , 2 sigma = 95.46% , 3 sigma = 99.73% , 6 sigma = 99.99%"
+,,,,,,,99.99%,
+,,,,,,1,99.73%,
+,,,,,,,95.46%,
+,,,,,,,68.26%,
+Radio,P_TM,0,1,SingleQuestion,You are the project manager for the large Project. You are currently  approximating number of work periods required to complete individual activities with estimated resources. Which of the following inputs you need for this ?,,,[Qno: PML_2385] >> 
+,,,,,,1,Activity List,
+,,,,,,,Activity resource requirements,
+,,,,,,,Resource Calendars,
+,,,,,,,All of the above,
+Radio,E_IM,0,1,SingleQuestion,Which one is the process responsible to do the work defined in the project management plan to achieve the project's objectives.,,,[Qno: PML_2408] >> 
+,,,,,,,Define Scope,
+,,,,,,1,Direct and Manage Project Execution,
+,,,,,,,Perform Integrated Change Control,
+,,,,,,,Monitor and Control Project Work,
+Radio,I_HM,0,1,SingleQuestion,A team member on the project is consistently delivering the work packages late and below the required quality standards. The issue was discussed with her several times but there is no improvement. As project manager you decide that it is time to employ coercive power. What measure will you implement?,,,"[Qno: PML_2449] >> French & Raven recognize five types of power: coercive, reward, legitimate, referent, and expert power. Coercive power is also known a penalty power, by which you punish someone."
+,,,,,,,You ask the Human Resources department to step in.,
+,,,,,,,You bargain with her to give her better assignments if she performs.,
+,,,,,,,You discuss the situation with her line manager.,
+,,,,,,1,You punish her by removing the privilege to work from home for two days per week.,
+Radio,P_CM,0,1,SingleQuestion,Analogous Estimate of Cost / Time is _________.,,,[Qno: PML_2483] >>  Analogous Estimate Costs is Generally less accurate . Analogous Estimate Costs Uses Expert Judgment . It is used when reference projects are similar . It is useful in early phases of the project.
+,,,,,,,Generally Accurate,
+,,,,,,1,Generally less accurate,
+,,,,,,,Bottom-up estimating,
+,,,,,,,Top-up estimating,
+Radio,ALL_CM,0,1,SingleQuestion,Project document updates are an output of:,,,[Qno: PML_2553] >> 
+,,,,,,,Estimate Costs,
+,,,,,,,Determine Budgets,
+,,,,,,,Control Costs,
+,,,,,,1,All of the above,
+Radio,P_QM,0,1,SingleQuestion,Schedule baseline and Risk register are inputs to:,,,[Qno: PML_2561] >> 
+,,,,,,,Perform Quality Assurance,
+,,,,,,1,Plan Quality,
+,,,,,,,Perform Quality Control,
+,,,,,,,None of the above,
+Radio,P_QM,0,1,SingleQuestion,"Activity resource requirements, Enterprise environmental factors, and Organizational process assets are input to _____________.",,,[Qno: PML_2569] >> 
+,,,,,,1,Develop Human Resource Plan,
+,,,,,,,Acquire Project Team,
+,,,,,,,Develop Project Team,
+,,,,,,,Manage Project Team,
+Radio,E_HM,0,1,SingleQuestion,"Pre-assignment, Negotiation, Acquisition, and Virtual teams are Tools & Techniques of _________________.",,,[Qno: PML_2571] >> 
+,,,,,,,Manage Project Team,
+,,,,,,,Develop Project Team,
+,,,,,,1,Acquire Project Team,
+,,,,,,,Develop Human Resource Plan,
+Radio,E_HM,0,1,SingleQuestion,"Enterprise environmental factors updates, Organizational process assets updates, Change Requests, and Project management plan updates are output of ___________.",,,[Qno: PML_2576] >> 
+,,,,,,,Develop Human Resource Plan,
+,,,,,,,Acquire Project Team,
+,,,,,,,Develo Project Team,
+,,,,,,1,Manage Project Team,
+Radio,E_COM,0,1,SingleQuestion,"Your inputs are Project management plan, Performance reports, and Organizational process assets. Which process are you performing?",,,[Qno: PML_2583] >> 
+,,,,,,,Identify Stakeholder,
+,,,,,,,Plan Communications,
+,,,,,,,Distribute Information,
+,,,,,,1,Manage Stakeholder Expectations,
+Radio,M_COM,0,1,SingleQuestion,Which are the Tools & Techniques of Report Performance?,,,[Qno: PML_2584] >> 
+,,,,,,,"Variance analysis, Communication models, Communication methods, Reporting system.",
+,,,,,,,"Variance analysis, Forecasting methods, Communication technology, Reporting system.",
+,,,,,,1,"Variance analysis, Forecasting methods, Communication methods, Reporting system.",
+,,,,,,,"Variance analysis, Interpersonal skills, Forecasting methods, Reporting system.",
+Radio,I_COM,0,1,SingleQuestion,"In what process you need Project Charter, Procurements documents, Enterprise environmental factors, Organizational process assets as input,  one of your Tools & Techniques is Expert judgment. ",,,[Qno: PML_2585] >> 
+,,,,,,1,Identify Stakeholders,
+,,,,,,,Plan Communications,
+,,,,,,,Distribute Information,
+,,,,,,,Manage Stakeholder Expectations,
+Radio,E_COM,0,1,SingleQuestion,"In Project Communications Management, one process has only one output named as Organizational process assets updates. What is the name of that process?",,,[Qno: PML_2586] >> 
+,,,,,,,Plan Communications,
+,,,,,,1,Distribute Information,
+,,,,,,,Manage Stakeholder Expectations,
+,,,,,,,Report Performance,
+Radio,E_PM,0,1,SingleQuestion,While you are performing Procurement performance review you are in which process of Project Procurement Management?,,,[Qno: PML_2606] >> 
+,,,,,,,Plan Procurements,
+,,,,,,,Conduct Procurements,
+,,,,,,1,Administer Procurements,
+,,,,,,,Close Procurements,
+Radio,M_IM,0,1,SingleQuestion,What is the input of Perform Integrated Change Control,,,[Qno: PML_2608] >> 
+,,,,,,1,Change Request,
+,,,,,,,Change Log,
+,,,,,,,Issue Log,
+,,,,,,,Work performance Measurement,
+Radio,I_FW,0,1,SingleQuestion,Which of the knowledge areas does not have any planning process,,,[Qno: PML_2610] >> 
+,,,,,,,Project Quality Management,
+,,,,,,,Project Risk Management,
+,,,,,,,Project Time Management,
+,,,,,,1,None of the Above,
+,,,,,,,All the Above,
+Radio,All_PMI,0,1,SingleQuestion, How many standards are available in PMI?,,,[Qno: PML_2611] >> 
+,,,,,,,5,
+,,,,,,,7,
+,,,,,,,10,
+,,,,,,1,12,
+Radio,P_TM,0,1,SingleQuestion,Which of these is not hierarchical representation,,,[Qno: PML_2612] >> 
+,,,,,,,Resource Breakdown Structure,
+,,,,,,,Work Breakdown Structure,
+,,,,,,,Risk Breakdown Structure,
+,,,,,,1,Resource Histogram,
+Radio,All_PMI,0,1,SingleQuestion,Which is not knowledge Area in PMBoK,,,[Qno: PML_2613] >> 
+,,,,,,,Integration Management,
+,,,,,,,Scope Management,
+,,,,,,,Quality Management,
+,,,,,,1,Staffing Management,
+Radio,E_IM,0,1,SingleQuestion,Deliverables is out from which process?,,,[Qno: PML_2615] >> 
+,,,,,,,Direct & Managment Project Execution,
+,,,,,,,Project Execution,
+,,,,,,,Monitor & Control Project Work,
+,,,,,,,Verify Scope,
+Radio,I_FW,0,1,SingleQuestion,PMBok is,,,[Qno: PML_2616] >> 
+,,,,,,1,Project Management Standard,
+,,,,,,,Project Management Rule Book,
+,,,,,,,Project Management Process Booklet,
+,,,,,,,only for IT Project,
+Radio,M_CM,0,1,SingleQuestion,Earn value management tool & technique is part of which process,,,[Qno: PML_2617] >> 
+,,,,,,,Estimate Cost,
+,,,,,,,Determine Budget,
+,,,,,,1,Control Cost,
+,,,,,,,Develop Schedule,
+Radio,I_FW,0,1,SingleQuestion,Project is not about,,,[Qno: PML_2618] >> 
+,,,,,,,Temporary Endevour,
+,,,,,,,Has progressive elaboration,
+,,,,,,,Involves resources,
+,,,,,,1,Maintains the status quo,
+,,,,,,,Produces unique work,
+Radio,All_IM,0,1,SingleQuestion,Find odd man out,,,[Qno: PML_2620] >> 
+,,,,,,,Develop Project Managment Plan,
+,,,,,,,Develop Project Charter,
+,,,,,,,Create WBS,
+,,,,,,1,Planning,
+Radio,P_SM,0,1,SingleQuestion,Requirement Traceablity Matrix is output of which process,,,[Qno: PML_2621] >> 
+,,,,,,1,Collect Requirement,
+,,,,,,,Define Scope,
+,,,,,,,Create WBS,
+,,,,,,,Define Activities,
+Radio,P_IM,0,1,SingleQuestion,In project integration management knowledge area Project Chater is input to which process,,,[Qno: PML_2622] >> 
+,,,,,,,Develop Project Charter,
+,,,,,,1,Develop Project Management Plan,
+,,,,,,,Direct & Manage Project Execution,
+,,,,,,,Monitor & Control Project Work,
+Radio,P_FW,0,1,SingleQuestion,Your project is to reach airport within next 2 hours. Who is (are) not the stakeholders in the project?,,,[Qno: PML_2623] >> 
+,,,,,,,Your Driver,
+,,,,,,,Traffic Police Cop at signals,
+,,,,,,,Your Spouse,
+,,,,,,1,All above are stakeholders,
+,,,,,,,No of above is correct answer,
+Radio,P_FW,0,1,SingleQuestion,Which of these is program manager,,,[Qno: PML_2625] >> 
+,,,,,,,Individual who manages 20 different projects,
+,,,,,,1,Individual who manages 5 different but interconnected projects,
+,,,,,,,Individual who is responsible for optimizing the profit in project,
+,,,,,,,Individual who is managing all human resources,
+Radio,P_FW,0,1,SingleQuestion,How many project management process are there in PMBoK 4th Edition?,,,[Qno: PML_2626] >> 
+,,,,,,,20,
+,,,,,,,44,
+,,,,,,1,42,
+,,,,,,,None of the above,
+Radio,I_COM,0,1,SingleQuestion,Stakeholder Register is,,,[Qno: PML_2627] >> 
+,,,,,,1,Input/Ouput,
+,,,,,,,Tool Technique,
+,,,,,,,Process name,
+,,,,,,,All of above,
+Radio,P_SM,0,1,SingleQuestion,What is the next process after collect requirement?,,,[Qno: PML_2628] >> 
+,,,,,,,Development Project Management Plan,
+,,,,,,,Create WBS,
+,,,,,,1,Define Scope,
+,,,,,,,Define Sequence,
+Radio,All_PMI,0,1,SingleQuestion,PMI in not involved in ,,,[Qno: PML_2630] >> 
+,,,,,,,Project Management Research,
+,,,,,,,Project Management Credential Development,
+,,,,,,,Project Management Standard Development,
+,,,,,,1,Conduct PMP Trainings,
+,,,,,,,All of Above,
+Radio,I_IM,0,1,SingleQuestion,What is PDU?,,,[Qno: PML_2631] >> 
+,,,,,,,Professional Divisional Units,
+,,,,,,,Personal Development Union,
+,,,,,,1,Professional Development Units,
+,,,,,,,Project Development Unit,
+Radio,I_IM,0,1,SingleQuestion,Project Charter is signed by,,,[Qno: PML_2632] >> 
+,,,,,,,Stakeholders,
+,,,,,,,Boss,
+,,,,,,1,Sponsor,
+,,,,,,,Project Manager,
+Radio,P_CM,0,1,SingleQuestion,During what project life cycle phase is the detailed project budget created,,,[Qno: PML_2608] >> 
+,,,,,,1,Planning,
+,,,,,,,Initiating,
+,,,,,,,Before cost estimating,
+,,,,,,,Executing,
+Radio,I_IM,0,1,SingleQuestion,Which process group process recognizes that a project or phase should begin and commits the organization for that,,,[Qno: PML_2609] >> 
+,,,,,,,Planning process,
+,,,,,,,Soliciation process,
+,,,,,,,Scoping process,
+,,,,,,1,Initiating process,
+Radio,M_CM,0,1,SingleQuestion,Cost control is concerned with,,,[Qno: PML_2675] >> 
+,,,,,,,Resource rates,
+,,,,,,,Chart of accounts,
+,,,,,,,Organizational Policies,
+,,,,,,1,Managing changes when they occur,
+Radio,_SM,0,1,SingleQuestion,Which one of the outputs below is output of define scope process,,,[Qno: PML_2633] >> 
+,,,,,,,Initial project charter,
+,,,,,,,Work breakdown strcture,
+,,,,,,1,Project scope statement,
+,,,,,,,Preliminary project scope statement,
+Radio,M_QM,0,1,SingleQuestion,A Run chart is a useful tool in Quality Control process. It is used to show,,,"[Qno: PML_560] >> PMBOK® Guide® 4th Edition, page 211."
+,,,,,,,Behavior of data points against control criteria.,
+,,,,,,,Behavior of data points against specifications.,
+,,,,,,1,Patterns and trends in a row of data points.,
+,,,,,,,The error margin of a sample versus a whole population.,
+Radio,M_QM,0,4,SingleQuestion,What is the purpose of 5 step method?,,,"[Qno: PML_658] >> DMAIC (Define, Measure, Analyse, Improve, Control) is used in Six Sigma"
+,,,,,,,Identification of random causes,
+,,,,,,,Identification of special causes,
+,,,,,,,Identification of causes of conflicts,
+,,,,,,1,Root cause analysis,
